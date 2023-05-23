@@ -30,3 +30,18 @@ footer {
 #myLista2 {
   display: none;
 }
+
+/* estilo de boton */
+.primary-button{
+  background-color: blue;
+  border-radius: 8px;
+  border: none;   
+  color:white;
+  width: 100%;
+  /* para cuando pasen el cursor por encima tenga una accion */
+  cursor:pointer;
+  font-size:var(--md);
+  /* para que la letra sea mas gordita */
+  font-weight: bold;
+  height: 50px;
+  }
