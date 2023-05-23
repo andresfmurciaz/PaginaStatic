@@ -1,5 +1,5 @@
-document.getElementById("toggleBtn").addEventListener("click", function() {
-    var myList = document.getElementById("myList");
+document.getElementById("toggleBtnn").addEventListener("click", function() {
+    var myList = document.getElementById("myLista");
     if (myList.style.display === "none") {
       myList.style.display = "block";
     } else {
